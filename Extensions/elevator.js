@@ -1,5 +1,5 @@
 //* TITLE Elevator **//
-//* VERSION 0.0.3 **//
+//* VERSION 0.0.4 **//
 //* DESCRIPTION Scroll to top the old-fashioned way **//
 //* DETAILS Makes the scroll to top button scroll slowly and play elevator music. **//
 //* DEVELOPER hobinjk **//

@@ -1,5 +1,5 @@
 //* TITLE Hermes **//
-//* VERSION 1.2.2 **//
+//* VERSION 1.2.3 **//
 //* DESCRIPTION Helps speed up your Tumblr experience **//
 //* DEVELOPER new-xkit **//
 //* FRAME false **//

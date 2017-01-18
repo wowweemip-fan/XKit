@@ -1,5 +1,5 @@
 //* TITLE Auto Scroll **//
-//* VERSION 1.2.0 **//
+//* VERSION 1.2.1 **//
 //* DESCRIPTION Scrolls the page at a variable pace. **//
 //* DETAILS Automatically scrolls the dashboard. **//
 //* DEVELOPER Fr33dan **//

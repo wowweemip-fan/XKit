@@ -1,5 +1,5 @@
 //* TITLE Color Quotes **//
-//* VERSION 1.1.1 **//
+//* VERSION 1.1.2 **//
 //* DESCRIPTION Color Quotes has moved to Reblog Display Options **//
 //* DEVELOPER STUDIOXENIX **//
 //* FRAME false **//

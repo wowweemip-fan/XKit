@@ -1,5 +1,5 @@
 //* TITLE Auto Tagger **//
-//* VERSION 0.7.1 **//
+//* VERSION 0.7.2 **//
 //* DESCRIPTION Tags posts automatically. **//
 //* DEVELOPER new-xkit **//
 //* DETAILS This extension allows you to automatically add tags to posts based on state (reblogged, original, queued) or post type (audio, video, etc) and keeping original tags while reblogging a post. **//

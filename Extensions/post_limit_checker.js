@@ -1,5 +1,5 @@
 //* TITLE Post Limit Checker **//
-//* VERSION 0.3.2 **//
+//* VERSION 0.3.3 **//
 //* DESCRIPTION Are you close to the limit? **//
 //* DETAILS Shows you how many posts you can reblog today. **//
 //* DEVELOPER new-xkit **//
